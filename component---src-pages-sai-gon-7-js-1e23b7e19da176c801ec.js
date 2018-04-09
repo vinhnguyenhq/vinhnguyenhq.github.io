@@ -1,0 +1,2 @@
+webpackJsonp([0xcc9954331f5c],{242:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(2),c=l(n),a=function(){return c.default.createElement("div",null,c.default.createElement("h1",null,"TEMP"))};t.default=a,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-sai-gon-7-js-1e23b7e19da176c801ec.js.map
