@@ -1,2 +1,0 @@
-webpackJsonp([0xdfdd4fd43ceb],{246:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(2),d=l(n),f=function(){return d.default.createElement("div",null,d.default.createElement("h1",null,"TEMP"))};t.default=f,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-sai-gon-binh-tan-js-0c93becd2db7d3b1839e.js.map
